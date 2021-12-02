@@ -15,7 +15,7 @@ class StateList {
 List<StateList> states = [
   StateList(
       id: 1,
-      author: "Pedro Joaquin",
+      author: "@laura",
       content:
           "Esta pelicula me parece genial, con mucha argumentación.",
       image: "assets/images/logo.png",
@@ -23,7 +23,7 @@ List<StateList> states = [
 
   StateList(
     id: 2,
-    author: "Pedro Joaquin",
+    author: "@Jose",
     content:
     "Esta pelicula me parece genial, con mucha argumentación.",
     image: "assets/images/logo.png",
@@ -31,7 +31,7 @@ List<StateList> states = [
 
   StateList(
     id: 3,
-    author: "Pedro Joaquin",
+    author: "@Ryan",
     content:
     "Esta pelicula me parece genial, con mucha argumentación.",
     image: "assets/images/logo.png",
@@ -39,7 +39,7 @@ List<StateList> states = [
 
   StateList(
     id: 4,
-    author: "Pedro Joaquin",
+    author: "@David",
     content:
     "Esta pelicula me parece genial, con mucha argumentación.",
     image: "assets/images/logo.png",
@@ -47,7 +47,7 @@ List<StateList> states = [
 
   StateList(
     id: 5,
-    author: "Pedro Joaquin",
+    author: "@leonor",
     content:
     "Esta pelicula me parece genial, con mucha argumentación.",
     image: "assets/images/logo.png",

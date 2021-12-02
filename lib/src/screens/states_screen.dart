@@ -16,7 +16,7 @@ class StatesScreen extends StatelessWidget {
       backgroundColor: Colors.white,
       elevation: 0,
       leading: IconButton(
-        icon: Image.asset("assets/images/logo.png"),
+        icon: Image.asset("assets/images/back.png"),
         onPressed: () => Navigator.pop(context),
       ),
     );
